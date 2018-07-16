@@ -1,26 +1,3 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+Email me for site URL
 
-
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, we included a small hello world application.
-
-1) Open the hello-world.html file
-
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+This is the final project for my Advnaed Web Design class I took at Rutgers. The goal was to create a web application using three apis. I chose to use the Rescue Groups API: https://rescuegroups.org/services/adoptable-pet-data-api/ as well as the Google Maps API. For the third API I decided to instead set up a mySQL instance on AWS and at the moment is used to store user information, however as of now it is still missing certain functionality such as hashing passwords for the database. I will be continuing to expand on this project for the forseeable future as there are still features I would have liked to add that did not make it into the version submitted for school.
