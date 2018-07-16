@@ -1,0 +1,87 @@
+.my-nav-item>a:hover, .my-nav-item a:focus{
+    background-color: transparent;
+}
+
+.navbar{
+    -moz-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    background-color: rgba(0, 0, 0, 0);
+    border-color:rgba(0, 0, 0, 0);
+    background-image:none;
+    box-shadow:none; 
+    padding-top:10px;
+    padding-bottom: 10px;
+}
+
+.navbar a{
+    color:white;
+    font-size: 20px;
+}
+
+.navbar a:hover{
+    color:#b7b3b3;
+    font-size: 20px;
+}
+
+.navbar-scroll{
+    background-color: white;
+    border-color: black;
+}
+
+.navbar-scroll a{
+    color:black;
+}
+
+
+.nav>li>a:hover{
+    background-color: transparent;
+}
+
+.navbar-right{
+    padding-right:20px;
+}
+
+#scroll-to-nav{
+    margin-bottom:10px;
+}
+
+.modal-body{
+    max-height: 600px;
+    overflow-y:auto;
+}
+
+.bgimg{
+    background-image: url('http://d1t3gia0in9tdj.cloudfront.net/media/72411/r/1920x820/Untitled-2.png');
+}
+
+.bg{
+    background-color: white;
+    padding-left: -10px;
+    padding-right: -10px;
+    margin-top:50px;
+}
+
+.bi{
+    padding: 20px;
+    margin-top:50px;
+}
+
+.sign-in{
+    float: right;
+}
+
+body a{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+p{
+    font-size: 18px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+}

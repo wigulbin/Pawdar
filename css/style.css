@@ -1,0 +1,116 @@
+
+.navbar li { color: #000 } 
+
+
+/* Background */
+img{
+    width:100%;
+    height:70%;
+}
+.bgimg{
+    background-image: url("http://www.publicdomainpictures.net/pictures/200000/velka/puppy-dog-1475063100JMD.jpg");
+    height: 70%;
+}
+
+
+
+
+/* Navbar */
+
+.my-nav-item>a:hover, .my-nav-item a:focus{
+    background-color: black;
+}
+
+.navbar{
+    -moz-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    background-color: rgba(0, 0, 0, 0);
+    border-color:rgba(0, 0, 0, 0);
+    background-image:none;
+    box-shadow:none; 
+    padding-top:10px;
+    padding-bottom: 10px;
+}
+
+.navbar a{
+    color:white;
+    font-size: 20px;
+}
+
+.navbar-scroll{
+    background-color: white;
+    border-color: black;
+}
+.navbar-scroll a{
+    color:black;
+}
+
+
+.navbar a:hover{
+    color:#b7b3b3;
+    font-size: 20px;
+    background-color: transparent;
+}
+
+.navbar li a:hover{
+    background-color: transparent;
+}
+
+.navbar-right{
+    padding-right:20px;
+}
+
+#scroll-to-nav{
+    margin-bottom:10px;
+}
+
+.item-list a{
+    color:white;
+}
+
+.title-center{
+    padding-top: 400px;
+    text-align: center;
+    color: white;
+}
+
+.more-info{
+    -moz-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    margin-top: 100px;
+    transition: all .3s ease-in;
+    text-align: center;
+    color: white;
+    border-radius: 25px;
+    font-size: 25px;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: transparent;
+}
+
+.more-info:hover{
+    background-color:white;
+    color: black;
+}
+
+.fixed-button{
+    right:3em;
+    bottom:5em;
+    position:fixed;
+    border-radius:50%;
+    font-size: 15px;
+}
+
+
+p{
+    font-size: 18px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+}
